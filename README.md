@@ -9,7 +9,7 @@ that support performance monitoring and merchandising decisions.
 
 ## Dashboard Preview
 
-![Myntra Sales Analytics Dashboard]()
+![Myntra Sales Analytics Dashboard](Myntra_dashboard.png)
 
 ## Dashboard at a glance
 
